@@ -1,6 +1,6 @@
 # DiabetesPatients_meriSKILL
 
-Project Summary: This project focused on analyzing Diabetes Patients data, this project is given by  "MeriSKILL". This dataset originally form the National Instute of Diabetes and Digestive Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the data sets.
+Project Summary: This project focused on analyzing Diabetes Patients data, this project is given by  "MeriSKILL". This dataset originally form the National Institute of Diabetes and Digestive Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the datasets.
 
 
 Steps Followed:
@@ -27,8 +27,8 @@ Insight of the dashboard :
 
     Total Patients is 336 & Total Insulin Level is 52K.
     Average Age is 32, Average BMI is 32.30, Average Blood Pressure is 70.24.
-    Average Skinn Thickness is 28.66, Average Glucose Level is 122.
-    For Non-Diabetes, percentage comparison by Outcomes is 55% anf for Diabetes percentage comparison by Outcomes is 45%.
+    Average Skin Thickness is 28.66, Average Glucose Level is 122.
+    For Non-Diabetes, percentage comparison by Outcomes is 55% and for Diabetes percentage comparison by Outcomes is 45%.
     In Group 1 i.e. age between 18-30 is 59.23%, in Group 2 i.e. age between 31-45 is 27.98%, in Group 1 i.e. age between 46-60 is 11.9% and in Group 4 i.e. age between above 60 is 
     0.89% resp.
     Pre-Glucose Category is highest of 167 followed by Normal and Diabetes Category resp.
